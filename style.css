@@ -1,0 +1,14 @@
+body{
+    background-color: green;
+    background-image: url(./green-png-44873.png);
+
+}
+.bg-box {
+    display: flex;
+    justify-content: center;
+    background: url(./lamp-png-34914.png) repeat-x, 
+    url(./3F3F.webp) repeat-y, 
+    url(./58eb07b830eab15b56162788.png) repeat-y right;
+    background-size: 25px;
+    margin-top: 10px;
+}
